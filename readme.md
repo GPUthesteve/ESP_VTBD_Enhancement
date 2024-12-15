@@ -1,4 +1,4 @@
-# IVAOTH ESP VTBD/DMK Bangkok/Don Mueang  "Enhancement" for ThaiCreations and KT-Designs
+#ESP VTBD/DMK Bangkok/Don Mueang  "Enhancement" for ThaiCreations and KT-Designs
 GSX Level 2 preset forked from Chatnaphat Chatilalai's config
 Distributed under MIT License
 
