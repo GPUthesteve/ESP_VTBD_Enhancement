@@ -1,21 +1,18 @@
-# IVAOTH ESP VTBD/DMK Bangkok/Don Mueang GSXL2 Configs for ThaiCreations and KT-Designs
-Forked from Chatnaphat Chatilalai's config
+# IVAOTH ESP VTBD/DMK Bangkok/Don Mueang  "Enhancement" for ThaiCreations and KT-Designs
+GSX Level 2 preset forked from Chatnaphat Chatilalai's config
 Distributed under MIT License
 
-too lazy to type thai lah
-
-NOTAM KT-Designs is WIP
+im too lazy to type thai lah
 
 Changes summarized:
--Changed Gate 11 to Gate 10 
--VDGS all jetway'ed gates, and parking position was setted using A333 as a ref, since GSX told us that it can calculate appropriate parking position for other jets using only one given.
--AFCAD Rework
-    -Internal GPS Approach procedure (only approach, no STAR)
-    -Navaids repositioned per published AIP Thailand
-    -Runway lights reworked.
+- Changed Gate 11 to Gate 10 
+- VDGS all jetway'ed gates, and parking position was setted using A333 as a ref, since GSX told us that it can calculate appropriate parking position for other jets using only one given.
+- AFCAD Rework
+    - Internal GPS Approach procedure (only approach, no STAR)
+    - Navaids repositioned per published AIP Thailand
+    - Runway lights reworked.
 
--including iniBuild's Dynamic light for VTBD
-
+- including iniBuild's Dynamic light for p3d users
 
 installation
 1. given the download package (or `git -clone`, if you prefer.), you'd see 3 follders, `iniBuilds DL effect Redist`, `ThaiCreations` and `KT-Designs`
@@ -26,3 +23,6 @@ installation
 5. Done.. 
 
 tl;dr ESP is just a base software to build FSX/P3D and its easier to call.
+
+Known Issues 
+- AFCAD runway light for ThaiCreations' runway 21R/3L was offset to the right due to GP placement (while it's dead center on KT-Designs), would publish a fix for it later
