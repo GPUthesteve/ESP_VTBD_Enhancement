@@ -27,4 +27,4 @@ tl;dr ESP is just a base software to build FSX/P3D and its easier to call.
 Known Issues 
 - AFCAD runway light for ThaiCreations' runway 21R/3L was offset to the right due to GP placement (while it's dead center on KT-Designs), would publish a fix for it later
 
-Charts <https://aip.caat.or.th/2024-11-28-AIRAC/html/index-en-GB.html>
+Charts <https://aip.caat.or.th/2024-11-28-AIRAC/html/index-en-GB.html> Part 3 : Aerodrome, first on the list.
